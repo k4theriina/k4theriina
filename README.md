@@ -5,7 +5,6 @@
 
 😒 Currently I'm working on expanding my technical knowledge with various different projects in web development, utilizing technologies such as React and TypeScript!  
 
----
 
 ## Check out my LinkedIn!
 
