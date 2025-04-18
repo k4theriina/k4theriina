@@ -6,7 +6,12 @@
 ---
 
 ## Check out my LinkedIn!
-👅 <a href="https://www.linkedin.com/in/katherina-dayaon/">LinkedIn</a>
+
+<a href="https://www.linkedin.com/in/katherina-dayaon/" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 16px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
+  LinkedIn
+</a>
+
 
 <!--
 **k4theriina/k4theriina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
