@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Kat! 💫
+🤠 I'm a BHC first year at the University of Central Florida, pursuing a bachelor's degree in Computer Science!
+😴 In my free time, I like to create art, music, and eat good food.
+😒 Currently I'm working on expanding my technical knowledge with various different projects in web development, utilizing technologies such as React and TypeScript!
+
+# Check out my LinkedIn!
+👅 <a href="https://www.linkedin.com/in/katherina-dayaon/">LinkedIn</a>
 
 <!--
 **k4theriina/k4theriina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
