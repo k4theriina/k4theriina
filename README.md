@@ -7,7 +7,7 @@
 
 ## Check out my LinkedIn!
 
-<a href="https://www.linkedin.com/in/katherina-dayaon/" target="_blank" style="display: inline-flex; align-items: center; background-color: #0077b5; color: white; padding: 10px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">
+<a href="https://www.linkedin.com/in/katherina-dayaon/" target="_blank" style="display: inline-flex; align-items: center; background-color: white; color: white; padding: 10px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
   LinkedIn
 </a>
