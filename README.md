@@ -1,7 +1,7 @@
 # Hi, I'm Kat! 💫
 🤠 I'm a BHC first year at the University of Central Florida, pursuing a bachelor's degree in Computer Science!  
 
-😴 In my free time, I like to create art, music, and eat good food.  
+😴 In my free time, I like to create art, music, and eat good food ^_^  
 
 😒 Currently I'm working on expanding my technical knowledge with various different projects in web development, utilizing technologies such as React and TypeScript!  
 
